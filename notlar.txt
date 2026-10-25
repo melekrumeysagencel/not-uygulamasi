@@ -1,0 +1,5 @@
+pwd - Bulundugum klasorun yolunu gosterir.
+ls - Klasordeki dosyalari listeler.
+cd - Baska bir klasore gecmemi saglar.
+mkdir - Yeni bir klasor olusturur.
+touch - Bos bir dosya olusturur.
