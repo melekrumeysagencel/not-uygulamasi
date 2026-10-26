@@ -3,3 +3,9 @@ ls - Klasordeki dosyalari listeler.
 cd - Baska bir klasore gecmemi saglar.
 mkdir - Yeni bir klasor olusturur.
 touch - Bos bir dosya olusturur.
+
+git init - Yeni bir Git deposu oluşturur.
+git status - Dosyaların ve değişikliklerin durumunu gösterir.
+git add - Dosyaları commit için hazırlama alanına ekler.
+git commit - Değişiklikleri kaydeder.
+git log - Commit geçmişini gösterir.

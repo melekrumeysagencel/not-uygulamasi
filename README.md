@@ -1,12 +1,4 @@
 # Not Uygulamasi
 
-
-
-
-
-
-
-
-
-Geliştirici: Melek Rümeysa Gencel (main versiyonu)
+Geliştirici: Melek Rümeysa Gencel (main ve feature versiyonları)
 
