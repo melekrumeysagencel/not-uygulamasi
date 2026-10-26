@@ -8,4 +8,4 @@ git init - Yeni bir Git deposu oluşturur.
 git status - Dosyaların ve değişikliklerin durumunu gösterir.
 git add - Dosyaları commit için hazırlama alanına ekler.
 git commit - Değişiklikleri kaydeder.
-git log - Commit geçmişini gösterir.
+git log - Commit geçmişini gösterir.Hafta 2 Git notlari - Pull Request calismasi
